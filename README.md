@@ -1,7 +1,8 @@
 # binary-search-tree-proje
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
-Root:6
+
+  Root:6
 
                         6
                       /   \
